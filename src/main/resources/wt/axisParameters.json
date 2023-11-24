@@ -1,0 +1,61 @@
+[
+  {
+    "applicationName": "WT",
+    "dimension": [
+      "Year",
+      "Month",
+      "Day",
+      "Hour",
+      "Minute",
+      "Second",
+      "deviceGroup",
+      "Device",
+      "OriginalLotID",
+      "LotId",
+      "WaferNumber",
+      "SlotNumber",
+      "Tester",
+      "Prober",
+      "LoadBoard",
+      "ProbeCard",
+      "Program",
+      "Equipment",
+      "chipArea",
+      "StepID",
+      "CareerID",
+      "DUT",
+      "WaferStartTime",
+      "WaferEndTime",
+      "LotStartTime",
+      "LotEndTime"
+    ],
+    "measure": [
+      "GoodChipCount",
+      "NumberOfPassedChips",
+      "NumberOfFailedChips",
+      "NumberOfChipsPerBin",
+      "BinRatio",
+      "TestPassChips",
+      "TestFailChips",
+      "LastYield",
+      "Yield",
+      "TestValue",
+      "TestPassChipRatio",
+      "TestChipCount",
+      "TestFailedRatio",
+      "TestFailedRatioActualCount",
+      "PassChipRatio",
+      "FailRatio"
+    ],
+    "group": [
+      "OriginalLotID",
+      "LotId",
+      "deviceGroup",
+      "Device",
+      "WaferNumber",
+      "Test",
+      "Bin",
+      "DUT"
+    ]
+  }
+]

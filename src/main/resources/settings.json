@@ -1,0 +1,24 @@
+[{
+  "createdBy" : "User1",
+  "settings" : [ {
+    "app" : {
+      "id" : 10002,
+      "name" : "WT"
+    },
+    "hyperlink" : {
+      "pages" : [ "testHistory", "waferDetails", "waferList", "testDetails" ],
+      "defaultNavigateTo" : "waferDetails"
+    },
+    "lastUpdateddate" : "2022-03-25 19:24:33 IST"
+  }, {
+    "app" : {
+      "id" : 10001,
+      "name" : "VDI"
+    },
+    "hyperlink" : {
+      "pages" : [ "inspectionList", "waferDetails", "waferList", "imageList" ],
+      "defaultNavigateTo" : "inspectionList"
+    },
+    "lastUpdateddate" : "2022-03-25 19:24:33 IST"
+  } ]
+}]

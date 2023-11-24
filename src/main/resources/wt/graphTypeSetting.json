@@ -1,0 +1,112 @@
+[
+  {
+    "graphType": "line",
+    "xAxisCount": 2,
+    "xAxisParameterType": "dimension",
+    "yAxisCount": 1,
+    "yAxisParameterType": "measure",
+    "zAxisCount": 0,
+    "zAxisParameterType": "",
+    "groupingCount": 1
+  },
+  {
+    "graphType": "bar",
+    "xAxisCount": 2,
+    "xAxisParameterType": "dimension",
+    "yAxisCount": 1,
+    "yAxisParameterType": "measure",
+    "zAxisCount": 0,
+    "zAxisParameterType": "",
+    "groupingCount": 1
+  },
+  {
+    "graphType": "histogram",
+    "xAxisCount": 1,
+    "xAxisParameterType": "measure",
+    "yAxisCount": 0,
+    "yAxisParameterType": "measure",
+    "zAxisCount": 0,
+    "zAxisParameterType": "",
+    "groupingCount": 1
+  },
+  {
+    "graphType": "pie",
+    "xAxisCount": 1,
+    "xAxisParameterType": "dimension",
+    "yAxisCount": 1,
+    "yAxisParameterType": "measure",
+    "zAxisCount": 0,
+    "zAxisParameterType": "",
+    "groupingCount": 1
+  },
+  {
+    "graphType": "composite",
+    "xAxisCount": 1,
+    "xAxisParameterType": "dimension",
+    "yAxisCount": 1,
+    "yAxisParameterType": "measure",
+    "zAxisCount": 0,
+    "zAxisParameterType": "",
+    "groupingCount": 1
+  },
+  {
+    "graphType": "scatter",
+    "xAxisCount": 1,
+    "xAxisParameterType": "measure",
+    "yAxisCount": 1,
+    "yAxisParameterType": "measure",
+    "zAxisCount": 0,
+    "zAxisParameterType": "",
+    "groupingCount": 1
+  },
+  {
+    "graphType": "3D",
+    "xAxisCount": 1,
+    "xAxisParameterType": "dimension",
+    "yAxisCount": 1,
+    "yAxisParameterType": "measure",
+    "zAxisCount": 0,
+    "zAxisParameterType": "measure",
+    "groupingCount": 1
+  },
+  {
+    "graphType": "bubble",
+    "xAxisCount": 1,
+    "xAxisParameterType": "measure",
+    "yAxisCount": 1,
+    "yAxisParameterType": "measure",
+    "zAxisCount": 0,
+    "zAxisParameterType": "measure",
+    "groupingCount": 1
+  },
+  {
+    "graphType": "box",
+    "xAxisCount": 2,
+    "xAxisParameterType": "dimension",
+    "yAxisCount": 1,
+    "yAxisParameterType": "measure",
+    "zAxisCount": 0,
+    "zAxisParameterType": "",
+    "groupingCount": 1
+  },
+  {
+    "graphType": "violin",
+    "xAxisCount": 1,
+    "xAxisParameterType": "dimension",
+    "yAxisCount": 1,
+    "yAxisParameterType": "measure",
+    "zAxisCount": 0,
+    "zAxisParameterType": "",
+    "groupingCount": 1
+  },
+  {
+    "graphType": "comparison",
+    "xAxisCount": 2,
+    "xAxisParameterType": "dimension",
+    "yAxisCount": 1,
+    "yAxisParameterType": "measure",
+    "zAxisCount": 0,
+    "zAxisParameterType": "",
+    "groupingCount": 1
+  }
+]
